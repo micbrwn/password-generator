@@ -23,7 +23,7 @@ THEN the password is either displayed in an alert or written to the page
 
 
 
-![Character selection](/Assets/images/Screen%20Shot%202022-05-20%20at%204.38.26%20PM.pn
+![Character selection](/Assets/images/Screen%20Shot%202022-05-20%20at%204.38.26%20PM.png)
 
 
 ![Password generated](/Assets/images/Screen%20Shot%202022-05-20%20at%204.38.55%20PM.png)
